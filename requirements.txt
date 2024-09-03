@@ -1,2 +1,5 @@
 streamlit
 python-dotenv
+ydata-profiling
+streamlit_pandas_profiling
+pydantic==2.7.*
